@@ -1,0 +1,1 @@
+gcloud ai-platform local train --package-path ./MobileNet --module-name MobileNet.MobileNet --job-dir local-training-output

@@ -1,6 +1,6 @@
 # AER1515 Perception for Robotics ML-based Coin Detector
 
-Explored developing a coin detector by comparing classical preprocessing techniques (Hough Circle Transform vs. Watershed Feature Extraction).
+Explored developing a coin detector by comparing classical preprocessing techniques (Hough Circle Transform vs. Watershed Feature Extraction) to reduce load on neural network.
 
 Worked with creating models using tensorflow, MobileNet, Google Teachable Machine.
 
